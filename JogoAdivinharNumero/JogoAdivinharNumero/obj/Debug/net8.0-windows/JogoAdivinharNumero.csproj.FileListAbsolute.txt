@@ -1,0 +1,16 @@
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\bin\Debug\net8.0-windows\JogoAdivinharNumero.exe
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\bin\Debug\net8.0-windows\JogoAdivinharNumero.deps.json
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\bin\Debug\net8.0-windows\JogoAdivinharNumero.runtimeconfig.json
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\bin\Debug\net8.0-windows\JogoAdivinharNumero.dll
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\bin\Debug\net8.0-windows\JogoAdivinharNumero.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\obj\Debug\net8.0-windows\JogoAdivinharNumero.Form1.resources
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\obj\Debug\net8.0-windows\JogoAdivinharNumero.csproj.GenerateResource.cache
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\obj\Debug\net8.0-windows\JogoAdivinharNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\obj\Debug\net8.0-windows\JogoAdivinharNumero.AssemblyInfoInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\obj\Debug\net8.0-windows\JogoAdivinharNumero.AssemblyInfo.cs
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\obj\Debug\net8.0-windows\JogoAdivinharNumero.csproj.CoreCompileInputs.cache
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\obj\Debug\net8.0-windows\JogoAdivinharNumero.dll
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\obj\Debug\net8.0-windows\refint\JogoAdivinharNumero.dll
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\obj\Debug\net8.0-windows\JogoAdivinharNumero.pdb
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\obj\Debug\net8.0-windows\JogoAdivinharNumero.genruntimeconfig.cache
+C:\Users\medua\OneDrive\Área de Trabalho\projetos-c-sharp\JogoAdivinharNumero\JogoAdivinharNumero\obj\Debug\net8.0-windows\ref\JogoAdivinharNumero.dll

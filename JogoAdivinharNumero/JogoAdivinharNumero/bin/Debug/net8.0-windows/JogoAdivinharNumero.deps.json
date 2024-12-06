@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JogoAdivinharNumero/1.0.0": {
+        "runtime": {
+          "JogoAdivinharNumero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JogoAdivinharNumero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
